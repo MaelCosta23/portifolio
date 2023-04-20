@@ -27,4 +27,8 @@ Para acessar o projeto hospedado, basta acessar o link https://portifolio-psi-kh
 
 ## Autor
 
-Este projeto foi desenvolvido por Mael Costa. Qualquer dúvida ou sugestão, entre em contato pelo e-mail [seu email aqui].
+Este projeto foi desenvolvido por <span style="color:red">**__Mael Costa__**</span>. Qualquer dúvida ou sugestão, entre em contato pelo e-mail **__maelson.canada@gmail.com__**.
+
+
+
+
